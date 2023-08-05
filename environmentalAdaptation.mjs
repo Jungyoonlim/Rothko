@@ -3,7 +3,7 @@ import { AI } from './ai.mjs';
 
 export class EnvironmentalAdaptation {
     constructor(ai) {
-        this.ai = new AI();
+        this.ai = ai;
     }
 
     start() {
