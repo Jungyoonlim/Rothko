@@ -9,7 +9,7 @@ Mark Rothko (1903-1970) was an eminent American painter and a major figure of th
 </p>
 
 <p align="center">
-  Mark Rothko, No. 2 (No. 7 and No. 20), 1951 (alternatively dated to 1950), Collection of Mrs. Paul Mellon, Upperville, Virginia
+  Mark Rothko, No. 2 (No. 7 and No. 20), 1951, Collection of Mrs. Paul Mellon, Upperville, Virginia
 </p>
 
 
