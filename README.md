@@ -4,7 +4,14 @@ Drawing inspiration from the boundless emotion and fluidity of Mark Rothko's art
 ## 🖼️ Who was Mark Rothko?
 Mark Rothko (1903-1970) was an eminent American painter and a major figure of the Abstract Expressionist movement. His distinctive artistry, characterized by luminous color fields against contrasting backgrounds, embodied profound emotional and spiritual themes.
 
-![No2](./No2.jpg)
+<p align="center">
+  <img src="./No2.jpg">
+</p>
+
+<p align="center">
+  Mark Rothko, No. 2 (No. 7 and No. 20), 1951 (alternatively dated to 1950), Collection of Mrs. Paul Mellon, Upperville, Virginia
+</p>
+
 
 ## 🔮 Emotion Recognition and Perception Transformation
 In homage to Mark Rothko's ability to convey raw emotion through his art and Aldous Huxley's theories on altered perception, our AI has been cultivated to perceive the emotional nuances of your creative journey and to catalyze shifts in your artistic perspective. The AI intuitively grasps the soul of your artistic style and offers suggestions that not only enrich your work but also stimulate new channels of creative thought.
