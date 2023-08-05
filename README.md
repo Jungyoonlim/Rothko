@@ -1,10 +1,10 @@
 # 🎨 Rothko: AI Drawing and Painting Studio 🖌️
 
-Rothko is an innovative software that leverages the power of Artificial Intelligence to revolutionize the world of digital art. 
+Rothko is an AI-powered creative platform, inspired by the fluid and emotion-driven artistry of Mark Rothko. It's a bridge between your unique vision and the boundless potential of artificial intelligence.
 
-## 🧠 AI Capabilities
+### Intuitive Pattern Recognition 🕵️‍♂️
 
-Rothko's AI is designed to analyze the current state of the canvas, identify patterns and themes, and adapt these patterns based on the environment. This allows for a dynamic and interactive art creation experience that is influenced by the world around you.
+Just as Mark Rothko sought to express raw emotion, our AI learns from the emotional undertones and patterns in your work. It doesn't just recognize shapes and colors, but the essence of your artistic style, generating suggestions to complement and expand your vision.
 
 ### Pattern Recognition 🕵️‍♂️
 
