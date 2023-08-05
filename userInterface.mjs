@@ -1,5 +1,5 @@
 // Importing necessary modules
-import { AI } from './ai.js';
+import { AI } from './ai.mjs';
 import { DynamicCanvas } from './canvas.js';
 
 export class UserInterface {

@@ -1,6 +1,6 @@
 // Importing necessary modules
-import { PatternRecognition } from './patternRecognition.js';
-import { EnvironmentalAdaptation } from './environmentalAdaptation.js';
+import { PatternRecognition } from './patternRecognition.mjs';
+import { EnvironmentalAdaptation } from './environmentalAdaptation.mjs';
 
 export class AI {
     constructor() {

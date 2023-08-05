@@ -1,20 +1,9 @@
-import pkg1 from './environmentalAdaptation.js';
-const { EnvironmentalAdaptation } = pkg1; 
-
-import pkg2 from './canvas.js';
-const { DynamicCanvas } = pkg2;
-
-import pkg3 from './ai.js';
-const { AI } = pkg3; 
-
-import pkg4 from './patternRecognition.js';
-const { PatternRecognition } = pkg4;
-
-import pkg5 from './userInterface.js';
-const { UserInterface } = pkg5;
-
-import pkg6 from './main.js';
-const { Main } = pkg6;
+import { EnvironmentalAdaptation } from './environmentalAdaptation.mjs';
+import { DynamicCanvas } from './canvas.mjs';
+import { AI } from './ai.mjs';
+import { PatternRecognition } from './patternRecognition.mjs';
+import { UserInterface } from './userInterface.mjs';
+import { Main } from './main.mjs';
 
 // Create new instances
 const environmentalAdaptation = new EnvironmentalAdaptation();

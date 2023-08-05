@@ -1,9 +1,9 @@
 // Importing necessary modules
 import { DynamicCanvas } from './canvas.js';
-import { AI } from './ai.js';
-import { PatternRecognition } from './patternRecognition.js';
-import { EnvironmentalAdaptation } from './environmentalAdaptation.js';
-import { UserInterface } from './userInterface.js';
+import { AI } from './ai.mjs';
+import { PatternRecognition } from './patternRecognition.mjs';
+import { EnvironmentalAdaptation } from './environmentalAdaptation.mjs';
+import { UserInterface } from './userInterface.mjs';
 
 // Initializing the canvas
 const canvasElement = document.getElementById('canvas');
