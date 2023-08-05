@@ -1,6 +1,6 @@
 // Importing necessary modules
 import { AI } from './ai.mjs';
-import { DynamicCanvas } from './canvas.js';
+import { DynamicCanvas } from './canvas.mjs';
 
 export class UserInterface {
     constructor(controlsElement) {
