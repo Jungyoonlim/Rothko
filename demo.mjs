@@ -3,7 +3,13 @@ import { DynamicCanvas } from './canvas.mjs';
 import { AI } from './ai.mjs';
 import { PatternRecognition } from './patternRecognition.mjs';
 import { UserInterface } from './userInterface.mjs';
-import { Main } from './main.mjs';
+import { start } from './main.mjs';
+import { JSDOM } from 'jsdom';
+
+const dom = new JSDOM(`<!DOCTYPE html><body><canvas id="canvas"></canvas></body>`);
+const document = dom.window.document;
+
+const canvasElement = document.getElementById('canvas');
 
 // Create new instances
 const environmentalAdaptation = new EnvironmentalAdaptation();
@@ -30,8 +36,8 @@ patternrecog.recognize();
 console.log('Running update from UserInterface');
 UI.update();
 
-console.log('Running execute from Main');
-main.execute();
+console.log('Running execute from main.mjs');
+start();
 
 
 // If your methods return values, you can log those

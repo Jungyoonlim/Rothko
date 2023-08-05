@@ -4,8 +4,11 @@ import { AI } from './ai.mjs';
 import { PatternRecognition } from './patternRecognition.mjs';
 import { EnvironmentalAdaptation } from './environmentalAdaptation.mjs';
 import { UserInterface } from './userInterface.mjs';
+import { JSDOM } from 'jsdom';
 
-// Initializing the canvas
+const dom = new JSDOM(`<!DOCTYPE html><body><canvas id="canvas"></canvas></body>`);
+const document = dom.window.document;
+
 const canvasElement = document.getElementById('canvas');
 const dynamicCanvas = new DynamicCanvas(canvasElement);
 
@@ -23,7 +26,7 @@ const controlsElement = document.getElementById('controls');
 const userInterface = new UserInterface(controlsElement);
 
 // Function to start the application
-function start() {
+export function start() {
     // Start the dynamic canvas
     dynamicCanvas.start();
 
