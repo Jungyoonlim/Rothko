@@ -5,7 +5,7 @@ import { EnvironmentalAdaptation } from './environmentalAdaptation.mjs';
 export class AI {
     constructor() {
         this.patternRecognition = new PatternRecognition();
-        this.environmentalAdaptation = new EnvironmentalAdaptation();
+        this.environmentalAdaptation = new EnvironmentalAdaptation(this);
     }
 
     start() {

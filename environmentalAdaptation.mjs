@@ -2,7 +2,7 @@
 import { AI } from './ai.mjs';
 
 export class EnvironmentalAdaptation {
-    constructor() {
+    constructor(ai) {
         this.ai = new AI();
     }
 
