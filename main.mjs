@@ -1,5 +1,5 @@
 // Importing necessary modules
-import { DynamicCanvas } from './canvas.js';
+import { DynamicCanvas } from './canvas.mjs';
 import { AI } from './ai.mjs';
 import { PatternRecognition } from './patternRecognition.mjs';
 import { EnvironmentalAdaptation } from './environmentalAdaptation.mjs';
